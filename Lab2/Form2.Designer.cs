@@ -37,9 +37,9 @@
             this.lb1.Font = new System.Drawing.Font("Comic Sans MS", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb1.Location = new System.Drawing.Point(171, 57);
             this.lb1.Name = "lb1";
-            this.lb1.Size = new System.Drawing.Size(160, 60);
+            this.lb1.Size = new System.Drawing.Size(159, 60);
             this.lb1.TabIndex = 0;
-            this.lb1.Text = "LABEL";
+            this.lb1.Text = "SUMA";
             // 
             // Form2
             // 

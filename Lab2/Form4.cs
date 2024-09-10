@@ -16,5 +16,19 @@ namespace Lab2
         {
             InitializeComponent();
         }
+
+        private void bt1_Click(object sender, EventArgs e)
+        {
+            FormularioEntrada formEntrada = new FormularioEntrada();
+            formEntrada.Show();
+            this.Hide();
+        }
+
+        private void bt2_Click(object sender, EventArgs e)
+        {
+            Form2 formSuma = new Form2();
+            formSuma.Show();
+            this.Hide();
+        }
     }
 }
