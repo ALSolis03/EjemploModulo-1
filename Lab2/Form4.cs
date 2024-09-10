@@ -30,5 +30,12 @@ namespace Lab2
             formSuma.Show();
             this.Hide();
         }
+
+        private void bt3_Click(object sender, EventArgs e)
+        {
+            formConteo form = new formConteo();
+            form.Show();
+            this.Hide();
+        }
     }
 }
